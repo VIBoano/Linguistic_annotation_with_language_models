@@ -1,4 +1,4 @@
-# Linguistic_annotation_with_language_models
+# Linguistic Annotation with Language Models: Introduction - MECANO workshop "Workflows for Natural Language Processing"
 This repository contains the materials presented at the lecture **"Linguistic annotation using language models: Introduction"**, during the [MECANO](https://mecano-dn.eu/) workshop "Workflows for Natural Language Processing" (Leuven, 17-19 November 2025), by Valeria Irene Boano and Margherita Fantoli (KU Leuven).
 
 The repository is structured as it follows:
